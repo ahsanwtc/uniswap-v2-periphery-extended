@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/ahsanwtc/uniswap-v2-periphery-extended/issues"
   },
-  "homepage": "https://github.com/ahsanwtc/uniswap-v2-periphery-extended#readme"
+  "homepage": "https://github.com/ahsanwtc/uniswap-v2-periphery-extended#readme",
+  "dependencies": {
+    "@uniswap/lib": "^4.0.1-alpha",
+    "@uniswap/v2-core": "^1.0.1"
+  }
 }

@@ -1,0 +1,20 @@
+{
+  "name": "uniswap-v2-periphery-extended",
+  "version": "1.0.0",
+  "description": "Extending Uniswap periphery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahsanwtc/uniswap-v2-periphery-extended.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahsanwtc/uniswap-v2-periphery-extended/issues"
+  },
+  "homepage": "https://github.com/ahsanwtc/uniswap-v2-periphery-extended#readme"
+}
